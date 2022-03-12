@@ -7,7 +7,7 @@ django-cleanup==2.1.0
 django-crispy-forms==1.7.2
 django-js-asset==1.2.2
 numpy==1.19.1
-Pillow==7.2.0
+Pillow==9.0.1
 pytz==2020.1
 sqlparse==0.3.1
 wincertstore==0.2
